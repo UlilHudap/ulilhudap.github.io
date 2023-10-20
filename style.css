@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("background.jpg");
+    background-size: 100%;
+}
+.logo{
+    float: right;
+}
+span{
+    color: rgb(214, 169, 110);
+}
+.identitas{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
